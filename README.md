@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heydhruv
+- 👋 Hi, I’m dhruv
 - 👀 I’m interested in Data Science and DSA 
 - 🌱 I’m currently learning data Science
 - UG CSE Student
