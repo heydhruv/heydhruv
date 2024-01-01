@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Diamond price prediction](https://github.com/heydhruv/diamond_price)
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **NLP related projects**
+- 👯 I’m looking to collaborate on **DL and Web dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heydhruv](https://github.com/heydhruv)
 
-- 💬 Ask me about **data science , stats ,python**
+- 💬 Ask me about **data science, web**
 
 - 📫 How to reach me **heydhruvdave@gmail.com**
 
