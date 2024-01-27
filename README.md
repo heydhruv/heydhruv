@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heydhruv&label=Profile%20views&color=0e75b6&style=flat" alt="heydhruv" /> </p>
 
-- 🔭 I’m currently working on [Diamond price prediction](https://github.com/heydhruv/diamond_price)
+- 🔭 I’m currently working on [Langchain_101](https://github.com/heydhruv/langchain_101)
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **DL and Web dev**
+- 👯 I’m looking to collaborate on **DL and Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heydhruv](https://github.com/heydhruv)
 
