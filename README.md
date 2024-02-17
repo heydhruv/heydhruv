@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **DL and Web Dev**
+- 👯 I’m looking to collaborate on **LLMs*
 
 - 👨‍💻 All of my projects are available at [https://github.com/heydhruv](https://github.com/heydhruv)
 
