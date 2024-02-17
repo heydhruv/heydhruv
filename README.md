@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heydhruv&label=Profile%20views&color=0e75b6&style=flat" alt="heydhruv" /> </p>
 
-- 🔭 I’m currently working on [Langchain_101](https://github.com/heydhruv/django_react)
+- 🔭 I’m currently working on [Djnago_React](https://github.com/heydhruv/django_react)
 
 - 🌱 I’m currently learning **React**
 
